@@ -1,0 +1,18 @@
+{
+  "name": "socket_io",
+  "version": "1.0.0",
+  "description": "Introduction to socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsx app.ts"
+  },
+  "author": "mnjaay",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.1",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
